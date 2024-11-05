@@ -17,3 +17,10 @@ message-board/__pycache__/
 message-board/posts/__pycache__/
 message-board/posts/migrations/__pycache__/
 message-board/django_project/__pycache__/
+
+blog/.venv/
+blog/db.sqlite3
+blog/__pycache__/
+blog/blog/__pycache__/
+blog/blog/migrations/__pycache__/
+blog/django_project/__pycache__/
