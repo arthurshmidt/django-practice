@@ -1,14 +1,17 @@
+personal-website/.venv/
 personal-website/pages/__pycache__
 personal-website/pages/migrations/__pycache__
 personal-website/django_project/__pycache__
 personal-website/db.sqlite3
 
+company/.venv/
 company/db.sqlite3
 company/__pycache__/
 company/pages/__pycache__/
 company/pages/migrations/__pycache__/
 company/django_project/__pycache__/
 
+message-board/.venv/
 message-board/db.sqlite3
 message-board/__pycache__/
 message-board/posts/__pycache__/
